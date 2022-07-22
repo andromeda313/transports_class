@@ -1,2 +1,2 @@
 # transports_class
-Ushbu code GM avtomashinalari rasmi asosida klasifikasiya qilish modelini ishlab cihqishga asoslangan
+Ushbu code havo suv va quruqlik transportlarini rasmi asosida klasifikasiya qilish modelini ishlab cihqishga asoslangan
